@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="SiteMaster" Codebehind="Site.master.cs" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<script runat="server">
+    
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id ="PageBody" runat ="server" bgcolor="#b6b7bc">
+    <!--
+    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+    -->
+    <form runat="server">
+    
+    <div class="page" >
+    <asp:Panel ID="BackgroundPanel" runat="server" BackColor="White">
+        <div class="header" id="siteHeader" runat="server">
+            <div class="title">
+                <h1>
+                    <asp:Label ID="titleLbl" runat="server" Text="The University Movie Exchange"></asp:Label>
+                </h1>
+            </div>
+            <div class="loginDisplay">
+            </div>
+            <div class="clear hideSkiplink" id="toolBar">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/UniversitySplash.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/Rentals.aspx" Text="Rentals"/>
+                        <asp:MenuItem NavigateUrl="~/availableMovies.aspx" Text="Available Movie"/>
+                        <asp:MenuItem NavigateUrl="~/Students.aspx" Text="Students"/>
+                         <asp:MenuItem NavigateUrl="~/NewStudent.aspx" Text="New Student"/>
+                         <asp:MenuItem NavigateUrl="~/NewMovie.aspx" Text="New Movie"/>
+                         <asp:MenuItem NavigateUrl="~/Collections.aspx" Text="Collections"/>
+                         <asp:MenuItem NavigateUrl="~/Stats.aspx" Text="Stats"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        
+        <div class="main">
+            
+            
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+
+            
+        </div>
+        
+        <div class="clear">
+            <asp:Label ID="testingLabel" runat="server"></asp:Label>
+        </div>
+        </asp:Panel>
+    </div>
+    
+    </form>
+    
+
+
+</body>
+</html>

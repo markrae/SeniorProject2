@@ -1,0 +1,8 @@
+﻿<asp:GridView runat="server" BackColor="White" BorderColor="Red" ForeColor="Black">
+   <AlternatingRowStyle BackColor="Red" />
+   <HeaderStyle BackColor="Red" />
+</asp:GridView>
+
+<asp:Label runat="server" BackColor="Red" ForeColor="White"></asp:Label>
+
+<asp:Image runat="server" ImageUrl="~/App_Themes/SOU/SOULogo.png" />

@@ -1,0 +1,2 @@
+drop database FORwitMovie
+create database FORwitMovie

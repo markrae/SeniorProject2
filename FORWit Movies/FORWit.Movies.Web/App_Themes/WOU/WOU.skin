@@ -1,0 +1,8 @@
+﻿<asp:GridView runat="server" BackColor="White" BorderColor="Black" ForeColor="Black">
+   <AlternatingRowStyle BackColor="Red" />
+   <HeaderStyle BackColor="Black" />
+</asp:GridView>
+
+<asp:Label runat="server" BackColor="Black" ForeColor="Red"></asp:Label>
+
+<asp:Image runat="server" ImageUrl="~/App_Themes/WOU/WOULogo.png" />
