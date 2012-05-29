@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
+using FORWit.Movies.Web.Account;
 
 namespace FORwitServiceLibrary
 {
@@ -29,7 +30,8 @@ namespace FORwitServiceLibrary
         }
         public MemberInfo GetMember(int ID)
         {
-            return MemberDB.GetMember(ID);
+            
+            return MemberDB.getMembers(ID);
         }
     }
 }

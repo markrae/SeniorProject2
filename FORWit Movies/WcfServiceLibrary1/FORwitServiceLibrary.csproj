@@ -54,6 +54,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FORWit.Movies.Web\FORWit.Movies.Web.csproj">
+      <Project>{7196F711-180D-4816-BB17-FEF4DC8898A4}</Project>
+      <Name>FORWit.Movies.Web</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
     <VisualStudio>

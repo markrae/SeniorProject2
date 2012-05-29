@@ -1,0 +1,9 @@
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\bin\Debug\MovieTesting.dll
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\bin\Debug\MovieTesting.pdb
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\bin\Debug\FORWit.Movies.Web.dll
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\bin\Debug\FORWit.Movies.Web.pdb
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\obj\Debug\MovieTesting.csprojResolveAssemblyReference.cache
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\obj\Debug\MovieTesting.Properties.Resources.resources
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\obj\Debug\MovieTesting.csproj.GenerateResource.Cache
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\obj\Debug\MovieTesting.dll
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\MovieTesting\obj\Debug\MovieTesting.pdb
