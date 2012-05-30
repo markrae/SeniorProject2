@@ -1,0 +1,6 @@
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\WcfServiceLibrary1\obj\Debug\FORwitServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

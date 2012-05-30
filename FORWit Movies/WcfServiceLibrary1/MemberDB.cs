@@ -21,7 +21,7 @@ namespace FORwitServiceLibrary
             //
         }
         [DataObjectMethod(DataObjectMethodType.Select)]
-        public static MemberInfo GetMember(int ID)
+        public static MemberInfo getMember(int ID)
         {
             SqlConnection con = new SqlConnection(GetConnectionString());
             string sel = "SELECT * FROM Member WHERE MemberID = " + ID;

@@ -2,3 +2,4 @@ C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movie
 C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\FORWit.Movies.Web\bin\FORWit.Movies.Web.pdb
 C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\FORWit.Movies.Web\obj\Debug\FORWit.Movies.Web.dll
 C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\FORWit.Movies.Web\obj\Debug\FORWit.Movies.Web.pdb
+C:\Users\feltmannsa2\Documents\Senior Project\FORwit Movie database\FORWit Movies\FORWit.Movies.Web\obj\Debug\FORWit.Movies.Web.csprojResolveAssemblyReference.cache
