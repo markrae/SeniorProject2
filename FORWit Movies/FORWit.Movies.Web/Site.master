@@ -37,7 +37,9 @@
                         <asp:MenuItem NavigateUrl="~/availableMovies.aspx" Text="Available Movie"/>
                         <asp:MenuItem NavigateUrl="~/Students.aspx" Text="Students"/>
                          <asp:MenuItem NavigateUrl="~/NewStudent.aspx" Text="New Student"/>
+                         <asp:MenuItem NavigateUrl="~/Membership.aspx" Text="Membership"/>
                          <asp:MenuItem NavigateUrl="~/NewMovie.aspx" Text="New Movie"/>
+                         <asp:MenuItem NavigateUrl="~/Club.aspx" Text="New Club"/>
                          <asp:MenuItem NavigateUrl="~/Collections.aspx" Text="Collections"/>
                          <asp:MenuItem NavigateUrl="~/Stats.aspx" Text="Stats"/>
                     </Items>
