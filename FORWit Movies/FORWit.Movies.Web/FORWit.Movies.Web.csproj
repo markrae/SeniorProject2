@@ -63,9 +63,10 @@
     <Content Include="App_Themes\SOU\SOULogo.png" />
     <Content Include="App_Themes\WOU\WOULogo.png" />
     <Content Include="availableMovies.aspx" />
+    <Content Include="Club.aspx" />
     <Content Include="Collections.aspx" />
     <Content Include="default.aspx" />
-    <Content Include="membership.aspx" />
+    <Content Include="Membership.aspx" />
     <Content Include="NewOrganization.aspx" />
     <Content Include="Rebuild.aspx" />
     <None Include="Service References\LibraryServiceReference\configuration91.svcinfo" />
@@ -109,6 +110,13 @@
     <Compile Include="availableMovies.aspx.designer.cs">
       <DependentUpon>availableMovies.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Club.aspx.cs">
+      <DependentUpon>Club.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Club.aspx.designer.cs">
+      <DependentUpon>Club.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Collections.aspx.cs">
       <DependentUpon>Collections.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -124,12 +132,12 @@
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="membership.aspx.cs">
-      <DependentUpon>membership.aspx</DependentUpon>
+    <Compile Include="Membership.aspx.cs">
+      <DependentUpon>Membership.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="membership.aspx.designer.cs">
-      <DependentUpon>membership.aspx</DependentUpon>
+    <Compile Include="Membership.aspx.designer.cs">
+      <DependentUpon>Membership.aspx</DependentUpon>
     </Compile>
     <Compile Include="NewOrganization.aspx.cs">
       <DependentUpon>NewOrganization.aspx</DependentUpon>
