@@ -65,6 +65,7 @@
     <Content Include="availableMovies.aspx" />
     <Content Include="Collections.aspx" />
     <Content Include="default.aspx" />
+    <Content Include="membership.aspx" />
     <Content Include="NewOrganization.aspx" />
     <Content Include="Rebuild.aspx" />
     <None Include="Service References\LibraryServiceReference\configuration91.svcinfo" />
@@ -122,6 +123,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="membership.aspx.cs">
+      <DependentUpon>membership.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="membership.aspx.designer.cs">
+      <DependentUpon>membership.aspx</DependentUpon>
     </Compile>
     <Compile Include="NewOrganization.aspx.cs">
       <DependentUpon>NewOrganization.aspx</DependentUpon>
