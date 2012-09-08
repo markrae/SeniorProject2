@@ -7,7 +7,7 @@ as
 	exec usp_createMembership
 	exec usp_createMovie
 	exec usp_createMovieCollection
-	exec usp_createOrganization
+	exec usp_createOrganizationnnnn
 go
 
 exec usp_createAll
